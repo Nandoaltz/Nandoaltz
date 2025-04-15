@@ -10,5 +10,4 @@ Tenho uma profunda paixão por tecnologia, sendo um entusiasta dedicado tanto ao
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nandoaltz)](https://github.com/Nandoaltz/github-readme-stats)
 
 ## Tecnologias e Ferramentas
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nandoaltz&layout=compact)
