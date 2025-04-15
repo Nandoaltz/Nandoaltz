@@ -36,4 +36,4 @@ Tenho uma profunda paixão por tecnologia, sendo um entusiasta dedicado tanto ao
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
 
-![snake animation](https://github.com/<Nandoaltz>/<Nandoaltz>/blob/output/github-contribution-grid-snake2.svg)
+![snake animation](https://github.com/Nandoaltz/Nandoaltz/blob/output/github-contribution-grid-snake2.svg)
