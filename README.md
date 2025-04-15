@@ -7,4 +7,4 @@ Tenho uma profunda paixão por tecnologia, sendo um entusiasta dedicado tanto ao
 <a href="https://www.linkedin.com/in/seu-usuário-linkedln-aqui" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nandoaltz)](https://github.com/Nandoaltz/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nandoaltz&layout=compact)
