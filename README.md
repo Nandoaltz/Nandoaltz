@@ -8,4 +8,5 @@ Tenho uma profunda paixão por tecnologia, sendo um entusiasta dedicado tanto ao
 </div>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nandoaltz&layout=compact)
-##Tecnologias e Ferramentas
+
+## Tecnologias e Ferramentas
