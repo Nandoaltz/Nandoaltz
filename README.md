@@ -1,6 +1,6 @@
 ## Olá, meu nome é Fernando
 
-<a href="www.linkedin.com/in/fernando-da-rosa-5048b22a4" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+<a href="https://www.linkedin.com/in/fernando-da-rosa-5048b22a4/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 
 Sou desenvolvedor full stack, com minha trajetória na área de tecnologia iniciada em 2020, durante o curso técnico em Desenvolvimento de Sistemas integrado ao ensino médio em um Instituto Federal.
 
