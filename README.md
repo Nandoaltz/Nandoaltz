@@ -6,6 +6,7 @@ Sou desenvolvedor full stack, com minha trajetória na área de tecnologia inici
 
 Tenho uma profunda paixão por tecnologia, sendo um entusiasta dedicado tanto ao universo do hardware quanto ao desenvolvimento de softwares e aplicações. Meu interesse abrange desde os fundamentos da computação até a criação de soluções inovadoras e funcionais.
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nandoaltz&layout=compact)
 
 
 ## Tecnologias e Ferramentas
@@ -33,5 +34,3 @@ Tenho uma profunda paixão por tecnologia, sendo um entusiasta dedicado tanto ao
 ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
 ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white)
 </div>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nandoaltz&layout=compact)
