@@ -1,4 +1,4 @@
-<img width="612" height="408" alt="wall-removebg-preview (1) (1)" src="https://github.com/user-attachments/assets/f45890d4-3ade-431a-ac14-3286383e71c5" />
+<img width="612" height="408" alt="wall-removebg-preview (1) (1)" src="https://github.com/user-Nandoaltz/assets/f45890d4-3ade-431a-ac14-3286383e71c5" />
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nandoaltz)](https://github.com/Nandoaltz/github-readme-stats)
 
