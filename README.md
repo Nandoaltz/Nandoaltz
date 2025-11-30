@@ -1,13 +1,12 @@
-<table>
-  <tr>
-    <td>
-      <p>Meu texto explicativo ou descrição aqui. Pode escrever quantas linhas quiser, falar sobre suas tecnologias, projetos ou qualquer coisa.</p>
-    </td>
-    <td>
-      <img width="300" src="https://github.com/user-attachments/assets/2c7cc469-257b-43a1-9c87-f0071ee1596b" alt="wall" />
-    </td>
-  </tr>
-</table>
+<div style="display: flex; align-items: center; gap: 20px;">
+  <div>
+    <p>Meu texto explicativo ou descrição aqui. Pode escrever quantas linhas quiser, falar sobre suas tecnologias, projetos ou qualquer coisa.</p>
+  </div>
+  <div>
+    <img width="300" src="https://github.com/user-attachments/assets/2c7cc469-257b-43a1-9c87-f0071ee1596b" alt="wall" />
+  </div>
+</div>
+
 
 <p align="center">
 <a href="https://www.linkedin.com/in/fernando-da-rosa-5048b22a4/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
