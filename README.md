@@ -1,4 +1,5 @@
-<img width="612" height="408" alt="wall-removebg-preview (1)" src="https://github.com/user-attachments/assets/9464c1d2-39bf-452c-a6a4-f3cbdd1fd7a9" />
+<img width="612" height="408" alt="wall-removebg-preview (1) (1)" src="https://github.com/user-attachments/assets/f45890d4-3ade-431a-ac14-3286383e71c5" />
+
 
 <a href="https://www.linkedin.com/in/fernando-da-rosa-5048b22a4/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 
