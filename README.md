@@ -1,7 +1,7 @@
 
 <img width="612" height="408" alt="wall-removebg-preview (1) (1)" src="https://github.com/user-attachments/assets/d285cb97-f9bf-4930-a15a-555c240c0720" />
 
-<h5 align="center">Contatos</h5>
+<h5 align="center">📫 Contatos</h5>
 <p align="center">
 <a href="https://www.linkedin.com/in/fernando-da-rosa-5048b22a4/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 <a href="https://instagram.com/Nandoaltz" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
