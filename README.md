@@ -16,4 +16,8 @@
   </a>
 </p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nandoaltz&hide=contribs,prs)
+<div>
+<a href="https://github.com/Nandoaltz">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nandoaltz&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=Nandoaltz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
