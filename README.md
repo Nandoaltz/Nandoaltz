@@ -1,5 +1,6 @@
 
-<img width="612" height="408" alt="wall-removebg-preview (1) (1)" src="https://github.com/user-attachments/assets/d285cb97-f9bf-4930-a15a-555c240c0720" />
+<img width="1640" height="664" alt="Teste" src="https://github.com/user-attachments/assets/188274ae-ca79-4a5f-b89d-9c22a2e09a19" />
+
 
 <h5 align="center">📫 Contatos</h5>
 <p align="center">
