@@ -1,6 +1,4 @@
-
 <img width="1640" height="664" alt="Teste" src="https://github.com/user-attachments/assets/188274ae-ca79-4a5f-b89d-9c22a2e09a19" />
-
 
 <h5 align="center">📫 Contatos</h5>
 <p align="center">
@@ -13,13 +11,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,docker,aws,linux,mysql,postgres,redis,rabbitmq,kafka,spring,git,github&perline=4" />
+    <img src="https://skillicons.dev/icons?i=java,docker,aws,linux,mysql,postgres,redis,rabbitmq,kafka,spring,git,github&perline=14" />
   </a>
 </p>
 
-<div align="center">
-  <a href="https://github.com/Nandoaltz">
-    <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nandoaltz&layout=compact&langs_count=7&theme=dracula"/><br/>
-    <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=Nandoaltz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  </a>
-</div>
