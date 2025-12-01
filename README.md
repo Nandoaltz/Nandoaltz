@@ -12,16 +12,15 @@ Gosto muito de tecnologia em geral. Faço alguns projetos e gosto de customizaç
 
 <h2 align="center">Tecnologias</h2>
 
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,docker,aws,linux,mysql,postgres,redis,rabbitmq,kafka,spring,git,github&perline=14" />
   </a>
 </p>
 
-### ⚙️ GitHub Analytics
----
+<p align="right">
 ![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Nandoaltz&theme=dark&layout=compact)
+</p>
 
-![Anurag's GitHub stats](https://github-readme-stats-git-master-orgamilyasov.vercel.app/api?username=Nandoaltz&show_icons=true&theme=transparent)
 
 
