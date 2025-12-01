@@ -12,17 +12,19 @@ Gosto muito de tecnologia em geral. Faço alguns projetos e gosto de customizaç
 
 <h2 align="center">Tecnologias</h2>
 
-<p align="right">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,docker,aws,linux,mysql,postgres,redis,rabbitmq,kafka,spring,git,github&perline=4" />
-  </a>
-</p>
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=java,docker,aws,linux,mysql,postgres,redis,rabbitmq,kafka,spring,git,github&perline=4" />
+      </a>
+    </td>
+    <td align="center">
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Nandoaltz&theme=dark&layout=compact" />
+    </td>
+  </tr>
+</table>
 
-<p align="left">
-  
-![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Nandoaltz&theme=dark&layout=compact)
-
-</p>
 
 
 
