@@ -2,8 +2,7 @@
 <img width="1640" height="856" alt="Novo Projeto" src="https://github.com/user-attachments/assets/e5a5c54b-7971-43a5-bcbe-7dd5ff49ceea" />
 
 <h2 align="center">Um pouco sobre mim</h2>
-Gosto muito de tecnologia em geral, faço uns projetos e gosto de customizações. Sou um desenvolvedor backend java, tenho um facinio por essa linguagem, espero que esse perfil lhe agrade.
-
+Gosto muito de tecnologia em geral. Faço alguns projetos e gosto de customizações. Sou desenvolvedor backend Java e tenho um fascínio por essa linguagem.
 <h5 align="center">📫 Contatos</h5>
 <p align="center">
 <a href="https://www.linkedin.com/in/fernando-da-rosa-5048b22a4/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
