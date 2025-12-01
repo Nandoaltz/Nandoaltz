@@ -24,11 +24,10 @@ Gosto muito de tecnologia em geral. Faço alguns projetos e gosto de customizaç
 
 <table>
   <tr>
-    <td>
-      <br />
+     <td>
       <img
         align="left"
-        src="https://github-readme-streak-stats.herokuapp.com/?user=iuricode&theme=dark&hide_border=false"
+        src="https://github-readme-stats.vercel.app/api?username=iuricode&theme=dark&hide_border=false&include_all_commits=true"
         alt="Github Stats"
       />
     </td>
