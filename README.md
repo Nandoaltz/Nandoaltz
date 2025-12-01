@@ -13,19 +13,18 @@ Gosto muito de tecnologia em geral. Faço alguns projetos e gosto de customizaç
 <h2 align="center">Tecnologias</h2>
 
 <div align="center">
-  <table>
-    <tr>
-      <td align="center">
+  <table border="0" cellspacing="0" cellpadding="0" style="border: none; background: none;">
+    <tr style="border: none; background: none;">
+      <td align="center" style="border: none; background: none;">
         <a href="https://skillicons.dev">
           <img src="https://skillicons.dev/icons?i=java,docker,aws,linux,mysql,postgres,redis,rabbitmq,kafka,spring,git,github&perline=4" />
         </a>
       </td>
-      <td align="center">
+      <td align="center" style="border: none; background: none;">
         <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Nandoaltz&theme=dark&layout=compact" />
       </td>
     </tr>
   </table>
 </div>
-
 
 
