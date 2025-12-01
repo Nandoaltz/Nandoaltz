@@ -25,6 +25,7 @@ Gosto muito de tecnologia em geral. Faço alguns projetos e gosto de customizaç
 ## Olá, meu nome é {seu nome}!
 
 ### ⚙️ GitHub Analytics
+---
 
 <p align="center">
   <tr>
