@@ -56,7 +56,7 @@ Gosto muito de tecnologia em geral. Faço alguns projetos e gosto de customizaç
   >
     <img
       width="800"
-      src="https://github-profile-trophy.vercel.app/?username=iuricode&column=8&theme=darkhub&no-frame=true&no-bg=true"
+      src="https://github-profile-trophy.vercel.app/?username=Nandoaltz&column=8&theme=darkhub&no-frame=true&no-bg=true"
     />
   </a>
 </p>
