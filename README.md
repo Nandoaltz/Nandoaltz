@@ -13,7 +13,7 @@ Gosto muito de tecnologia em geral. Faço alguns projetos e gosto de customizaç
 <h2 align="center">Tecnologias</h2>
 
 <div align="center">
-  <table  border="0" cellspacing="0" cellpadding="0">
+  <table  border=0 cellspacing="0" cellpadding="0">
     <tr>
       <td align="center">
         <a href="https://skillicons.dev">
