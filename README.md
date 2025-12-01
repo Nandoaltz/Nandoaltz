@@ -13,7 +13,6 @@ Gosto muito de tecnologia em geral. Faço alguns projetos e gosto de customizaç
 <h2 align="center">Tecnologias</h2>
 
 <p align="center">
-
 <table>
   <tr>
     <td align="center">
@@ -26,7 +25,6 @@ Gosto muito de tecnologia em geral. Faço alguns projetos e gosto de customizaç
     </td>
   </tr>
 </table>
-
 </p>
 
 
