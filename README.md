@@ -26,7 +26,7 @@ Gosto muito de tecnologia em geral. Faço alguns projetos e gosto de customizaç
 
 ### ⚙️ GitHub Analytics
 
-<table>
+<p align="center">
   <tr>
     <td>
       <img
@@ -43,7 +43,7 @@ Gosto muito de tecnologia em geral. Faço alguns projetos e gosto de customizaç
       />
     </td>
   </tr>
-</table>
+</p>
 --- 
 
 
