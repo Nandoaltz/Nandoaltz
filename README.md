@@ -18,4 +18,4 @@ Gosto muito de tecnologia em geral. Faço alguns projetos e gosto de customizaç
   </a>
 </p>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nandoaltz)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nando)](https://github.com/anuraghazra/github-readme-stats)
