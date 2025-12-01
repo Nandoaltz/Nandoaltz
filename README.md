@@ -18,12 +18,6 @@ Gosto muito de tecnologia em geral. Faço alguns projetos e gosto de customizaç
   </a>
 </p>
 
-## Olá, meu nome é {seu nome}!
-
-### ⚙️ GitHub Analytics
-
-## Olá, meu nome é {seu nome}!
-
 ### ⚙️ GitHub Analytics
 ---
 
