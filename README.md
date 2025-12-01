@@ -22,6 +22,6 @@ Gosto muito de tecnologia em geral. Faço alguns projetos e gosto de customizaç
 ---
 ![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Nandoaltz&theme=dark&layout=compact)
 
-![Anurag's GitHub stats](https://github-readme-stats-phi.vercel.app/api?username=Nandoaltz&show_icons=true&theme=transparent)
+![Anurag's GitHub stats](https://github-readme-stats-git-master-orgamilyasov.vercel.app/api?username=Nandoaltz&show_icons=true&theme=transparent)
 
 
