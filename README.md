@@ -39,7 +39,7 @@ Gosto muito de tecnologia em geral. Faço alguns projetos e gosto de customizaç
       <br />
       <img
         align="left"
-        src="https://github-readme-streak-stats.herokuapp.com/?user=iuricode&theme=dark&hide_border=false"
+        src="https://github-readme-streak-stats.herokuapp.com/?user=Anandoaltz&theme=dark&hide_border=false"
         alt="Github Stats"
       />
     </td>
