@@ -1,4 +1,5 @@
-<img width="1640" height="664" alt="Teste" src="https://github.com/user-attachments/assets/188274ae-ca79-4a5f-b89d-9c22a2e09a19" />
+
+<img width="1640" height="856" alt="Novo Projeto" src="https://github.com/user-attachments/assets/e5a5c54b-7971-43a5-bcbe-7dd5ff49ceea" />
 
 <h2 align="center">Um pouco sobre mim</h2>
 Gosto muito de tecnologia em geral, faço uns projetos e gosto de customizações. Sou um desenvolvedor backend java, tenho um facinio por essa linguagem, espero que esse perfil lhe agrade.
