@@ -27,5 +27,7 @@ Gosto muito de tecnologia em geral. Faço alguns projetos e gosto de customizaç
   </table>
 </div>
 
+<div align="center">
 <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Nandoaltz&theme=dark&layout=compact" />
+</div>
 
