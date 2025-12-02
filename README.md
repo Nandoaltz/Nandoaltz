@@ -18,9 +18,6 @@ Gosto muito de tecnologia em geral. Faço alguns projetos e gosto de customizaç
 
 <div align="center">
 <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Nandoaltz&theme=dark&layout=compact"/>  
-
-![](https://github-contributor-stats.vercel.app/api?username=Nandoaltz&limit=5&theme=dark&combine_all_yearly_contributions=true)
-[![](https://visitcount.itsvg.in/api?id=Nandoaltz&icon=0&color=0)](https://visitcount.itsvg.in)
   
 ![](https://github-readme-stats.vercel.app/api?username=Nandoaltz&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Nandoaltz&theme=dark&hide_border=false)<br/>
@@ -28,7 +25,9 @@ Gosto muito de tecnologia em geral. Faço alguns projetos e gosto de customizaç
 </div>
 <h2 align="center">🔝 Top Contributed Repo</h2>
 <div align="center">
-  
+
+![](https://github-contributor-stats.vercel.app/api?username=Nandoaltz&limit=5&theme=dark&combine_all_yearly_contributions=true)
+[![](https://visitcount.itsvg.in/api?id=Nandoaltz&icon=0&color=0)](https://visitcount.itsvg.in)
 
 </div>
 
