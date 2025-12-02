@@ -11,17 +11,28 @@ Gosto muito de tecnologia em geral. Faço alguns projetos e gosto de customizaç
 </p>
 
 <h2 align="center">Tecnologias</h2>
-<div align="center">
-<img src="https://skillicons.dev/icons?i=java,docker,aws,linux,mysql,postgres,redis,rabbitmq,kafka,spring,git,github&perline=6"/>
-</div>
-
-<div align="center">
+<table width="100%">
+  <tr>
+    <td width="50%" align="center">
+      <div align="center">
+        <img src="https://skillicons.dev/icons?i=java,docker,aws,linux,mysql,postgres,redis,rabbitmq,kafka,spring,git,github&perline=6"/>
+      </div>
+    </td>
+    
+  <td width="50%" align="center">
+  <div align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Nandoaltz&theme=dark&layout=compact"/>
-  
- ![](https://github-readme-stats.vercel.app/api?username=Nandoaltz&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Nandoaltz&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Nandoaltz&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-</div>
+        
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api?username=Nandoaltz&theme=dark&hide_border=false&include_all_commits=false&count_private=false"/>
+        
+  <br>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Nandoaltz&theme=dark&hide_border=false"/>
+        
+  </div>
+  </td>
+  </tr>
+</table>
 
 <h2 align="center">🔝 Top Contributed Repo</h2>
 <div align="center">
