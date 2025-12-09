@@ -29,4 +29,5 @@ Gosto muito de tecnologia em geral. Faço alguns projetos e gosto de customizaç
 [![](https://visitcount.itsvg.in/api?id=Nandoaltz&icon=0&color=0)](https://visitcount.itsvg.in)
 
 </div>
+<img width="400" height="400" alt="Novo Projeto (3)" src="https://github.com/user-attachments/assets/19490f0c-2136-41a2-8528-fa3e67a68dd7" />
 
