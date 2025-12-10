@@ -14,7 +14,7 @@ Gosto muito de tecnologia em geral. Faço alguns projetos e gosto de customizaç
 <h2 align="center">Tecnologias</h2>
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=java,docker,aws,linux,mysql,postgres,redis,rabbitmq,kafka,spring,git,github,mongodb&perline=4"/>
+<img src="https://skillicons.dev/icons?i=java,docker,aws,linux,mysql,postgres,redis,mongodb,rabbitmq,kafka,spring,git,github&perline=4"/>
 <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Nandoaltz&theme=dark&layout=compact"/>  
   
 </div>
