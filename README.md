@@ -24,6 +24,6 @@ Gosto muito de tecnologia em geral. Faço alguns projetos e gosto de customizaç
   />
   <img
     src="https://github-readme-stats.vercel.app/api?username=Nandoaltz&theme=dark&hide_border=false&include_all_commits=false&count_private=false"
-    height="180"
+    height="170"
   />
 </div>
