@@ -27,11 +27,3 @@ Gosto muito de tecnologia em geral. Faço alguns projetos e gosto de customizaç
     height="180"
   />
 </div>
-
-
-<h2 align="center">🔝 Top Contributed Repo</h2>
-<div align="center">
-
-![](https://github-readme-stats.vercel.app/api?username=Nandoaltz&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-
-</div>
