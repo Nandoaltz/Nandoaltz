@@ -18,10 +18,16 @@ Gosto muito de tecnologia em geral. Faço alguns projetos e gosto de customizaç
 </div>
 
 <div align="center">
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Nandoaltz&theme=dark&layout=compact"/>  
-  
-![](https://github-readme-stats.vercel.app/api?username=Nandoaltz&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+  <img
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Nandoaltz&theme=dark&layout=compact"
+    height="180"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Nandoaltz&theme=dark&hide_border=false&include_all_commits=false&count_private=false"
+    height="180"
+  />
 </div>
+
 
 <h2 align="center">🔝 Top Contributed Repo</h2>
 <div align="center">
