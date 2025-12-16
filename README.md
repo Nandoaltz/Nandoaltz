@@ -14,7 +14,7 @@ Gosto muito de tecnologia em geral. Faço alguns projetos e gosto de customizaç
 <h2 align="center">Tecnologias</h2>
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=java,docker,aws,linux,mysql,postgres,redis,mongodb,rabbitmq,kafka,spring,git,github, ollama&perline=16"/>
+<img src="https://skillicons.dev/icons?i=java,docker,aws,linux,mysql,postgres,redis,mongodb,rabbitmq,kafka,spring,git,github&perline=16"/>
 </div>
 
 <div align="center">
