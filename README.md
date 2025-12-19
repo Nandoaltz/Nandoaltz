@@ -20,7 +20,7 @@ Gosto muito de tecnologia em geral. Faço alguns projetos e gosto de customizaç
 <img src="https://iconic-api.onrender.com/dark/python" width="64px" />
 <img src="https://iconic-api.onrender.com/dark/html" width="64px" />
 <img src="https://iconic-api.onrender.com/dark/js" width="64px" />
-  <img src="https://iconic-api.onrender.com/dark/spring" width="64px" />
+  <img src="https://iconic-api.onrender.com/dark/java" width="64px" />
 <div>
 
 <div align="center">
