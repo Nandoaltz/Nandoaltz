@@ -14,7 +14,8 @@ Gosto muito de tecnologia em geral. Faço alguns projetos e gosto de customizaç
 <h2 align="center">Tecnologias</h2>
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=java,docker,aws,linux,mysql,postgres,redis,mongodb,rabbitmq,kafka,spring,quarkus,git,github&perline=16"/>
+<img src="https://skillicons.dev/icons?i=java,docker,aws,linux,mysql,postgres,redis,mongodb,rabbitmq,kafka,spring,git,github&perline=16"/>
+https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/quarkus.png
 </div>
 
 <div align="center">
