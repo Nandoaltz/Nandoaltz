@@ -15,8 +15,12 @@ Gosto muito de tecnologia em geral. Faço alguns projetos e gosto de customizaç
 
 <div align="center">
 <img src="https://skillicons.dev/icons?i=java,docker,aws,linux,mysql,postgres,redis,mongodb,rabbitmq,kafka,spring,git,github&perline=16"/>
-https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/quarkus.png
 </div>
+<div style="display: flex; gap: 2px; align-items: center;">
+<img src="https://iconic-api.onrender.com/dark/python" width="64px" />
+<img src="https://iconic-api.onrender.com/dark/html" width="64px" />
+<img src="https://iconic-api.onrender.com/dark/js" width="64px" />
+<div>
 
 <div align="center">
   <img
