@@ -18,10 +18,3 @@ Gosto muito de tecnologia em geral. Faço alguns projetos e gosto de customizaç
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=java,spring,quarkus,junit,postgres,mysql,mongodb,redis,rabbitmq,kafka,linux,docker,aws,react,js&titles=true)
 
 </div>
-
-<div align="center">
-  <img
-    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Nandoaltz&theme=dark&layout=compact"
-    height="180"
-  />
-</div>
