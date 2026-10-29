@@ -15,6 +15,6 @@ Gosto muito de tecnologia em geral. Faço alguns projetos e gosto de customizaç
 
 <div align="center">
   
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=java,spring,python,django,postgres,mysql,rabbitmq,kafka,linux,docker,kubernetes,cloudflare,nginx,git&titles=true)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=java,spring,python,django,postgres,mysql,rabbitmq,kafka,linux,docker,podman,kubernetes,cloudflare,nginx,git&titles=true)
 
 </div>
